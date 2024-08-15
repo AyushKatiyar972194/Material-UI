@@ -1,0 +1,9 @@
+.InfoBox{
+    text-align: center;
+    background-color: azure;
+}
+.cardContainer{
+    display:flex;
+    justify-content: center;
+    font-size: medium;
+}
